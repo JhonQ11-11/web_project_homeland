@@ -1,0 +1,8 @@
+.places {
+  display: grid;
+
+  max-width: 987px;
+  height: 3367px;
+  margin: auto;
+  margin-left: 148px;
+}

@@ -1,0 +1,17 @@
+.photo-grid {
+  display: grid;
+  width: 1184px;
+  height: 442px;
+  margin-top: 200px;
+  margin-left: 43px;
+}
+.photo-grid__container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+}
+.photo-grid__image {
+  display: grid;
+  width: 284px;
+  height: 213px;
+}
