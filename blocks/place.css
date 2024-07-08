@@ -60,6 +60,7 @@
   text-align: left;
 }
 .place__paragraph {
+  color: #0278fe;
   grid-column: 2;
   margin-top: 0;
   width: 484px;
