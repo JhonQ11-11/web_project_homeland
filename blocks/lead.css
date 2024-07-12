@@ -5,7 +5,7 @@
   text-align: center;
   flex-direction: column;
   width: 100%;
-  height: 983px;
+  height: 100%;
   color: #ffffff;
 }
 .lead__title {
@@ -41,6 +41,7 @@
   height: 615px;
   margin: 0 auto;
   padding-top: 64px;
+  object-fit: fill;
 }
 @media screen and (max-width: 768px) {
   .lead {

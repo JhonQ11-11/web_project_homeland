@@ -1,8 +1,23 @@
 .places {
   display: grid;
 
-  max-width: 987px;
-  height: 3367px;
+  max-width: 984px;
+  height: 100%;
   margin: auto;
   margin-left: 148px;
+}
+@media screen and (max-width: 768px) {
+  .places {
+    display: grid;
+    width: 720px;
+    height: 100%;
+    margin: auto;
+  }
+}
+@media screen and (max-width: 320px) {
+  .places {
+    display: grid;
+    width: 320px;
+    height: 100%;
+  }
 }
