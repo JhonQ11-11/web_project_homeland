@@ -31,7 +31,7 @@
   }
   .photo-grid__image {
     display: grid;
-    grid-column: 10px;
+
     width: 352px;
     height: 264px;
   }
